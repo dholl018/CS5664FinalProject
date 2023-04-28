@@ -1,2 +1,3 @@
 # CS5664FinalProject
-Final Project for CS5664
+
+This is the place where we can store code related to the final project. 
