@@ -85,6 +85,7 @@ ipython_config.py
 # Ignore the movies txt files
 movies.txt
 movies-by-year.txt
+movies-by-year/
 
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
